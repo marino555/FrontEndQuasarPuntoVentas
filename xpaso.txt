@@ -1,0 +1,1 @@
+voy por la parte de traer todas las categorias mediante axios
